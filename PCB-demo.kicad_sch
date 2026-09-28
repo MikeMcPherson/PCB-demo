@@ -2,8 +2,17 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid c105e1b4-e476-4f29-b7cd-321b2e71a701)
-	(paper "A4")
+	(uuid "c105e1b4-e476-4f29-b7cd-321b2e71a701")
+	(paper "USLedger")
+	(title_block
+		(title "PCB-demo")
+		(date "2026-09-24")
+		(rev "V0.9")
+		(company "University of Virginia")
+		(comment 1 "School of Engineering and Applied Sciences")
+		(comment 2 "Department of Mechanical and Aerospace Engineering")
+		(comment 3 "Mike McPherson")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
